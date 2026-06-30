@@ -8,3 +8,4 @@ __pycache__
 config.json
 instructions.md
 FileBackupLogger.spec
+FileBackupLogger.desktop
