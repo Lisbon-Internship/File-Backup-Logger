@@ -1,0 +1,10 @@
+dist
+build
+node_modules
+__pycache__
+*.log
+*.tmp
+.vscode
+config.json
+instructions.md
+FileBackupLogger.spec
