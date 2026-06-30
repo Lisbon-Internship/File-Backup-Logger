@@ -2,6 +2,9 @@
 
 A Python-based utility with a Graphical User Interface (GUI) to back up files and directories with versioning, optional ZIP compression, and logging capabilities.
 
+![Image](./assets/1.png)
+![Image](./assets/2.png)
+
 ## Features
 - **Object-Oriented Design:** Clean and maintainable codebase.
 - **GUI Interface:** Built with Tkinter for easy selection of source and destination folders.
